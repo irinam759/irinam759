@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Irina Maslovich (@irinam759) - Frontend developer and artist 
+- 👀 I’m interested in Computer Science, Art and Global Environment 
+- 🌱 I’m currently working on WAP project of social network 
+- 💞️ I’m looking to collaborate on an interesting project where I can make an impact
+- 📫 How to reach me: katsirka@gmail.com
